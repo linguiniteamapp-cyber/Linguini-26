@@ -1,0 +1,25 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/
+
+# VS Code
+.vscode/
+
+# IntelliJ / Android Studio
+.idea/
+
+# Misc
+*.log
+*.tmp
+.DS_Store

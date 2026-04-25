@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "6229816542",
+    "project_id": "linguine-df4ce",
+    "storage_bucket": "linguine-df4ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6229816542:android:d7d1a365069f6fc4757e4f",
+        "android_client_info": {
+          "package_name": "com.example.linguini_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6229816542-aogksc4qbu4jhfjpgfbjg64or2c9h7df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhV7YIMm3-7GUI1q8sUNLYYoa5oxKgrxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6229816542-aogksc4qbu4jhfjpgfbjg64or2c9h7df.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6229816542-ac3hhvhh2i490e1sihgc2v6g4nr3r3ht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.linguiniApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
