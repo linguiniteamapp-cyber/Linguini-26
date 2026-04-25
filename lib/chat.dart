@@ -25,7 +25,7 @@ class ChatListPage extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.symmetric(horizontal: 16, vertical: 12),
               child: Text(
-                'محادثاتك',
+                'محادثاتـك',
                 style: TextStyle(
                   fontSize: 22,
                   fontFamily: 'Almarai',
