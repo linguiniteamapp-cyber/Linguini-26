@@ -25,7 +25,7 @@ class _OrderTrackingPageState extends State<OrderTrackingPage> {
           elevation: 0,
           centerTitle: true,
           title: const Text(
-            "تتبع طلبك",
+            "تتتبع طلبك",
             style: TextStyle(
               fontFamily: 'Almarai',
               fontWeight: FontWeight.bold,
