@@ -54,7 +54,7 @@ class _LoginPageState extends State<LoginPage> {
 
                   /// Welcome Text
                   const Text(
-                    'مرحبًا بعودتك',
+                    'مررحبًا بعودتك',
                     style: TextStyle(
                       fontSize: 28,
                       fontWeight: FontWeight.w600,
