@@ -91,7 +91,7 @@ class ChatListPage extends StatelessWidget {
                   ),
                   SizedBox(height: 4),
                   Text(
-                    'آخر رسالة وصلت إليك...',
+                    'آخر رسالــة وصلت إليك...',
                     maxLines: 1,
                     overflow: TextOverflow.ellipsis,
                     style: TextStyle(
